@@ -1,0 +1,14 @@
+E:\.net\c#\Inventort Managment System\Inventort Managment System\bin\Debug\net8.0\Inventort Managment System.exe
+E:\.net\c#\Inventort Managment System\Inventort Managment System\bin\Debug\net8.0\Inventort Managment System.deps.json
+E:\.net\c#\Inventort Managment System\Inventort Managment System\bin\Debug\net8.0\Inventort Managment System.runtimeconfig.json
+E:\.net\c#\Inventort Managment System\Inventort Managment System\bin\Debug\net8.0\Inventort Managment System.dll
+E:\.net\c#\Inventort Managment System\Inventort Managment System\bin\Debug\net8.0\Inventort Managment System.pdb
+E:\.net\c#\Inventort Managment System\Inventort Managment System\obj\Debug\net8.0\Inventort Managment System.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\c#\Inventort Managment System\Inventort Managment System\obj\Debug\net8.0\Inventort Managment System.AssemblyInfoInputs.cache
+E:\.net\c#\Inventort Managment System\Inventort Managment System\obj\Debug\net8.0\Inventort Managment System.AssemblyInfo.cs
+E:\.net\c#\Inventort Managment System\Inventort Managment System\obj\Debug\net8.0\Inventort Managment System.csproj.CoreCompileInputs.cache
+E:\.net\c#\Inventort Managment System\Inventort Managment System\obj\Debug\net8.0\Inventort Managment System.dll
+E:\.net\c#\Inventort Managment System\Inventort Managment System\obj\Debug\net8.0\refint\Inventort Managment System.dll
+E:\.net\c#\Inventort Managment System\Inventort Managment System\obj\Debug\net8.0\Inventort Managment System.pdb
+E:\.net\c#\Inventort Managment System\Inventort Managment System\obj\Debug\net8.0\Inventort Managment System.genruntimeconfig.cache
+E:\.net\c#\Inventort Managment System\Inventort Managment System\obj\Debug\net8.0\ref\Inventort Managment System.dll
